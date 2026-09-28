@@ -1,0 +1,6 @@
+{
+  "name": "LUMÉ - Fashion & Clothing Store",
+  "description": "Premium clothing and fashion e-commerce website with interactive catalog, wishlist, shopping bag, checkout, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
